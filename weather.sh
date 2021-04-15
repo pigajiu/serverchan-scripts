@@ -19,7 +19,7 @@ content="变态 今天$city的天气是:$weather 气温$temp $wind
 ![night]($night_pic)
 
 
-才 才不是特意提醒你的呢 哼~
+才才才才 才不是特意提醒你的呢 哼~
 
 
 ![face](https://dn-4679kun.qbox.me/691875be0ff27db2.png)"
